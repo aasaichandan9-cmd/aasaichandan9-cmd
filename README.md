@@ -3,9 +3,14 @@
 </p>
 
 # 👋 Hi, I'm Asapu Appala Sai Chandan
-## 🌐 Portfolio
 
-🚀 Live Portfolio: https://saichandan-portfolio.netlify.app
+Passionate Full Stack Developer from Visakhapatnam, India.
+
+I build modern, responsive, and user-friendly web applications using React, TypeScript, Java, Node.js, and Firebase.
+
+Currently looking for internships and software development opportunities.
+
+🌍 **Portfolio:** https://saichandan-portfolio.netlify.app
 
 💼 Built with React, TypeScript, Vite & Tailwind CSS.
 
