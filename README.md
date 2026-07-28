@@ -3,6 +3,11 @@
 </p>
 
 # 👋 Hi, I'm Asapu Appala Sai Chandan
+## 🌐 Portfolio
+
+🚀 Live Portfolio: https://saichandan-portfolio.netlify.app
+
+💼 Built with React, TypeScript, Vite & Tailwind CSS.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Graphic+Designer;Building+Real+World+Solutions;Always+Learning+%F0%9F%9A%80" />
